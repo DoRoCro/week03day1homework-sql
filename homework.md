@@ -35,4 +35,5 @@ Use the supplied data as the source of data to answer the questions.  Copy the S
 
 ## Extension
 
-1. Research how to delete multiple entries from your table in a single command.
+1. Research how to delete multiple entries from your table in a single command. ```DELETE FROM table_name
+WHERE [condition];```  as found on [tutorialspoint.com](https://www.tutorialspoint.com/sql/sql-delete-query.htm)
