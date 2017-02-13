@@ -1,0 +1,200 @@
+DROP TABLE
+DROP TABLE
+DROP TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+ id |                title                | year | show_time 
+----+-------------------------------------+------+-----------
+  1 | Iron Man                            | 2008 | 21:00
+  2 | The Incredible Hulk                 | 2008 | 14:20
+  3 | Iron Man 2                          | 2010 | 18:45
+  4 | Thor                                | 2011 | 22:20
+  5 | Captain America: The First Avenger  | 2011 | 16:45
+  6 | Avengers Assemble                   | 2012 | 21:05
+  7 | Iron Man 3                          | 2013 | 17:30
+  8 | Thor: The Dark World                | 2013 | 14:30
+  9 | Batman Begins                       | 2005 | 20:00
+ 10 | Captain America: The Winter Soldier | 2014 | 23:25
+ 11 | Guardians of the Galaxy             | 2014 | 17:40
+ 12 | Avengers: Age of Ultron             | 2015 | 23:40
+ 13 | Ant-Man                             | 2015 | 16:35
+ 14 | Captain America: Civil War          | 2016 | 23:40
+ 15 | Doctor Strange                      | 2016 | 23:30
+(15 rows)
+
+        name        
+--------------------
+ Adam  Baxter
+ Alice Loudon
+ Chris Brown
+ Colin Farquhar
+ David  Hale
+ Douglas Crooke
+ Ewen Carr
+ Ferdinando Sendyka
+ Craig Morton
+ Andrew
+ Andrew
+ Graeme Bell
+ Josef Meszaros
+ Km North
+ Leon-Paul Hart
+ Lewis Brown
+ Richard Page Croft
+ Rob Flett
+ Robert Ball
+ Robert Brice
+ Ross Crichton
+ Simon Smith
+ Suzanne Aitchison
+(23 rows)
+
+UPDATE 1
+      name      
+----------------
+ Douglas Crooke
+(1 row)
+
+      name      
+----------------
+ Douglas Crooke
+(1 row)
+
+DELETE 1
+INSERT 0 1
+DELETE 1
+ id 
+----
+ 10
+ 11
+(2 rows)
+
+UPDATE 1
+UPDATE 1
+INSERT 0 1
+UPDATE 1
